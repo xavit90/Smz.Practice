@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smz.Practice.Employee", "Sm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smz.Practice.FizzBuzz", "Smz.Practice.FizzBuzz\Smz.Practice.FizzBuzz.csproj", "{B1BFD7A5-A025-4B02-BAEF-D790EBDF0346}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smz.Practice.Fibonacci", "Smz.Practice.Fibonacci\Smz.Practice.Fibonacci.csproj", "{234FE7A9-569B-4B81-9F84-839C13EBEDFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B1BFD7A5-A025-4B02-BAEF-D790EBDF0346}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1BFD7A5-A025-4B02-BAEF-D790EBDF0346}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1BFD7A5-A025-4B02-BAEF-D790EBDF0346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234FE7A9-569B-4B81-9F84-839C13EBEDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234FE7A9-569B-4B81-9F84-839C13EBEDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234FE7A9-569B-4B81-9F84-839C13EBEDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234FE7A9-569B-4B81-9F84-839C13EBEDFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
