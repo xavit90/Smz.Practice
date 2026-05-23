@@ -20,8 +20,8 @@ public class Pdf
     public bool? Send { get; set; }
 
     [JsonPropertyName("parameters")]
-    public List<Dictionary<string, object>> Parameters { get; set; } = [];
+    public Dictionary<string, object> Parameters { get; set; } = [];
 
     [JsonPropertyName("images")]
-    public List<Dictionary<string, string>> Images { get; set; } = [];
+    public Dictionary<string, string> Images { get; set; } = [];
 }
